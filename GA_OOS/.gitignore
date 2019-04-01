@@ -1,0 +1,6 @@
+client_secrets.json
+analyticsreporting.dat
+__pycache__
+output_assets/
+venv/
+
